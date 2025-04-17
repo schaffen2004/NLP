@@ -1,1 +1,20 @@
 # NLP
+- [ ] Regex
+- [ ] Tokenizer
+- [ ] Text normalization
+- [ ] Vector Embedding
+- [ ] Skip gram
+- [ ] Language Model
+- [ ] RNN
+- [ ] LSTM
+- [ ] Machine Translation
+- [ ] Transformer
+- [ ] BERT
+- [ ] NER
+- [ ] PosTag
+- [ ] GPT
+- [ ] Information Retrieval
+- [ ] RAG
+- [ ] Vector Search
+- [ ] Prompt
+- [ ] Semantic Cache Made
